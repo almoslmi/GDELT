@@ -1,12 +1,6 @@
 {
   "@context": ["https://github.com/almoslmi/GDELT", {"@language": "en"}],
   "url": "test.csv",
-  "dc:title": "Tree Operations",
-  "dcat:keyword": ["tree", "street", "maintenance"],
-  "dc:publisher": {
-    "schema:name": "Example Municipality",
-    "schema:url": {"@id": "http://example.org"}
-  },
   "dc:license": {"@id": "http://opendefinition.org/licenses/cc-by/"},
   "dc:modified": {"@value": "2010-12-31", "@type": "xsd:date"},
   "tableSchema": {
