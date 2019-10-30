@@ -1,6 +1,6 @@
 {
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
-  "url": "https://github.com/almoslmi/GDELT/test.csv",
+  "url": "test.csv",
   "dc:title": "Tree Operations",
   "dcat:keyword": ["tree", "street", "maintenance"],
   "dc:publisher": {
